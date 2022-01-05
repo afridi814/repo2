@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "repo2"
+git branch -M main
+git remote add origin http://github.com/afridi814/repo2.git
+git push -u origin main
